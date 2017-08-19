@@ -165,6 +165,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -270,7 +271,7 @@
       <workItem from="1501352660625" duration="823000" />
       <workItem from="1502026383358" duration="629000" />
       <workItem from="1502806091197" duration="3291000" />
-      <workItem from="1503091155251" duration="4695000" />
+      <workItem from="1503091155251" duration="5290000" />
     </task>
     <task id="LOCAL-00001" summary="n">
       <created>1501352740483</created>
@@ -307,11 +308,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503160039516</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="json">
+      <created>1503160053504</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1503160053504</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15773000" />
+    <option name="totallyTimeSpent" value="16368000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5" y="1" width="1361" height="727" extended-state="0" />
